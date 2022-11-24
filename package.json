@@ -1,0 +1,22 @@
+{
+  "name": "devjam-01-lit",
+  "version": "1.0.0",
+  "description": "Meetup lets talk about Lit HTML @Sytac",
+  "main": "index.js",
+  "scripts": {
+    "start": "es-dev-server --app-index ./demo/index.html --node-resolve --watch --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LitHTML",
+    "Lit"
+  ],
+  "author": "Richard Reveron @DevJam Sytac",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^2.4.1"
+  },
+  "devDependencies": {
+    "es-dev-server": "^2.1.0"
+  }
+}
