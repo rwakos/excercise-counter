@@ -4,7 +4,7 @@
   "description": "Meetup lets talk about Lit HTML @Sytac",
   "main": "index.js",
   "scripts": {
-    "start": "es-dev-server --app-index ./demo/index.html --node-resolve --watch --open",
+    "start": "es-dev-server --app-index /demo/index.html --node-resolve --watch --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

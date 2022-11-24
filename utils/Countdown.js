@@ -3,7 +3,7 @@ class Countdown {
     timeExcercise = 0,
     timeRest = 0,
     loops = 0,
-    inExcercise = true,
+    inExcercise = false,
     playing = true
   ) {
     this.inExcercise = inExcercise;

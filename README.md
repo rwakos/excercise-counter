@@ -3,8 +3,13 @@
 ## Install
 
 ```
-npm i lit
-npm i --save-dev es-dev-server
+npm install
+```
+
+## Run demo
+
+```
+npm run start
 ```
 
 References used:

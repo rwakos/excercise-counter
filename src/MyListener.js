@@ -70,7 +70,7 @@ class MyListener extends LitElement {
       this.timeExcercise,
       this.timeRest,
       this.loops,
-      true,
+      false,
       true
     );
     this.countdown.startExcercise();
